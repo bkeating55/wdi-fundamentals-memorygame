@@ -16,6 +16,7 @@ h2 {
  height: 50%;
  width: 50%;
 
+
 }
 
 .card {
@@ -27,6 +28,7 @@ h2 {
   border-radius: 10px;
   float: left;
   margin: 8px;
+  display: block;
 
 }
 
